@@ -6,4 +6,4 @@ Agrego esta linea desde el editor en linea para hacer un Pull desde Gitbash
 
 Este texto fue agregado para hacer uso de github desktop
 
-Texto agregado desde Visual Estudio Code con la extension de GitHub
+Texto agregado desde Visual Estudio Code
